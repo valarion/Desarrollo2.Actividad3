@@ -74,3 +74,4 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 /Desarrollo_2_3/Saved
+/Desarrollo_2_3/build
